@@ -1,12 +1,10 @@
-# Project Title
-Simple AntiVirus Bypass technique.
-
+# Simple AntiVirus Bypass technique.
 ## Getting Started
 Install Go 1.9 
 Clone the source code
 Build it : go build bypassav.go
 
-Prerequisites
+## Prerequisites
 Go 1.9 , Metasploit
 
 ## Built With
