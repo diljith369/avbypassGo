@@ -1,0 +1,1 @@
+https://www.rapid7.com/db/modules/payload/cmd/windows/reverse_powershell
